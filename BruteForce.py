@@ -10,14 +10,18 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 # =====================[ BANNER TOOLS ]=====================
 def banner():
     print(r"""
-  ____       _       _           _____                            
- |  _ \ __ _| |_ ___| |__   ___ |  ___|   _ _ __  _ __ ___  _   _ 
- | |_) / _` | __/ __| '_ \ / _ \| |_ | | | | '_ \| '__/ _ \| | | |
- |  __/ (_| | || (__| | | | (_) |  _|| |_| | | | | | | (_) | |_| |
- |_|   \__,_|\__\___|_| |_|\___/|_|   \__,_|_| |_|_|  \___/ \__,_|
+
+ _    _____________            _    __   __                
+| |  | | ___ \ ___ \          | |   \ \ / /                
+| |  | | |_/ / |_/ /_ __ _   _| |_ __\ V /___   __ _  __ _ 
+| |/\| |  __/| ___ \ '__| | | | __/ _ \ // _ \ / _` |/ _` |
+\  /\  / |   | |_/ / |  | |_| | ||  __/ | (_) | (_| | (_| |
+ \/  \/\_|   \____/|_|   \__,_|\__\___\_/\___/ \__, |\__,_|
+                                                __/ |      
+                                               |___/       
 
           WordPress Brute Force & Auth Bypass Tool
-              Created by: Prayoga Gymnastiar
+              Created by: @YogaGymn
            Instagram: @YogaGymn | Cilacap | 2025
 
     [!] Tools ini hanya digunakan untuk tujuan edukasi!
